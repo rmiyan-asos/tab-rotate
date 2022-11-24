@@ -61,7 +61,7 @@
             "tabReloadIntervalSeconds": 10
         },
         { 
-            "url": "https://livereportserver.asos.com/ReportServer/Pages/ReportViewer.aspx?%2fHourly+Sales%2fHourlySalesDashboard+Excluding+17000&rs:Command=Render",
+            "url": "http://pdeunsql291.asos.local/ReportServer/report/Hourly%20Sales/HourlySalesDashboard%20Excluding%2017000",
             "duration": 30,
             "tabReloadIntervalSeconds": 300
         },
