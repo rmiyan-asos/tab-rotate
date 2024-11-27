@@ -16,21 +16,6 @@
             "tabReloadIntervalSeconds": 200
         },
         { 
-            "url": "https://asosltd.grafana.net/d/QordH-i4k/citrix-adc?orgId=1&refresh=1m",
-            "duration": 20,
-            "tabReloadIntervalSeconds": 200
-        },
-        { 
-            "url": "https://asosltd.grafana.net/d/RPfjbtTMk/server-management-mgmt-servers?orgId=1",
-            "duration": 20,
-            "tabReloadIntervalSeconds": 200
-        },
-        { 
-            "url": "https://asosltd.grafana.net/d/6W3a-567z/prod-sql-servers?orgId=1",
-            "duration": 25,
-            "tabReloadIntervalSeconds": 200
-        },
-        { 
             "url": "https://www.asos.com/women/new-in/cat/?cid=27108&ctaref=shop|20offeverythingflash|ww_globalbanner",
             "duration": 10,
             "tabReloadIntervalSeconds": 10
@@ -47,11 +32,6 @@
         },
         { 
             "url": "https://status.azure.com/en-us/status",
-            "duration": 10,
-            "tabReloadIntervalSeconds": 10
-        },
-        { 
-            "url": "https://status.cloud.com/",
             "duration": 10,
             "tabReloadIntervalSeconds": 10
         },
