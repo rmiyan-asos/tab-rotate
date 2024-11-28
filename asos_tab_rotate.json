@@ -36,12 +36,12 @@
             "tabReloadIntervalSeconds": 10
         },
         { 
-            "url": "https://cloudharmony.com/status-for-akamai",
+            "url": "https://www.akamaistatus.com/",
             "duration": 10,
             "tabReloadIntervalSeconds": 10
         },
         { 
-            "url": "http://pdeunsql291.asos.local/ReportServer/report/Hourly%20Sales/HourlySalesDashboard%20Excluding%2017000",
+            "url": "https://reportserver.asosapps.com/ReportServer/report/Hourly%20Sales/HourlySalesDashboard",
             "duration": 30,
             "tabReloadIntervalSeconds": 300
         },
